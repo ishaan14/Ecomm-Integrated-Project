@@ -46,6 +46,19 @@ h2 {
 .carousel a {
   margin: 0 auto;
 }
+
+.contact{
+  background-color: #343a40;
+  color:white;
+  padding: 16px;
+  font-size: large;
+}
+
+.contact h1{
+  color:white;
+  text-align: center;
+}
+
 @media (max-width: 900px) {
   .carousel-caption h2 {
     font-size: 2.5vw;
